@@ -1,14 +1,21 @@
 # Reference
 [学习 Python，怎能不懂点 PEP 呢？](https://www.jiqizhixin.com/articles/2018-11-09-4)
+
 [除了 PEP8，还有哪一些是值得阅读的？](https://www.zhihu.com/question/23484654/answer/527807938)
+
 [那些值得阅读的 PEP](https://hk4fun.github.io/2018/12/06/%E9%82%A3%E4%BA%9B%E5%80%BC%E5%BE%97%E9%98%85%E8%AF%BB%E7%9A%84PEP/)
+
 [10 个必读的 PEP 提案](https://blog.csdn.net/kan2016/article/details/82116843)
+
 [python-whydo](https://github.com/chinesehuazhou/python-whydo)
+
 [Github peps-cn](https://link.zhihu.com/?target=https%3A//github.com/chinesehuazhou/peps-cn)
 
 # PEP 分类
 Information : 提供告知信息和指导信息
+
 Process: Python 本身之外的周边信息
+
 Standards Track: 新功能和实践
 
 # PEP 列表
@@ -85,7 +92,7 @@ Standards Track: 新功能和实践
 | PEP 3107 | 函数注解 | Standards Track |
 | PEP 3109 | Python3 中的异常 raise | Standards Track |
 | PEP 3110 | Python3 中的异常 except | Standards Track |
-| PEP 3114 | 将迭代协议的 next() 方法改为.__next__() | Standards Track |
+| PEP 3114 | 将迭代协议的 next() 方法改为`.__next__()` | Standards Track |
 | PEP 3115 | Python3 中的元类 | Standards Track |
 | PEP 3116 | Python 中的 IO | Standards Track |
 | PEP 3119 | 引入抽象基类 ABC | Standards Track |
